@@ -1,4 +1,4 @@
-# Learning Objectives
+# Learning Objectives.
 
 - What Developer Tools in your browser are
 - How to open the Developer Tools on Chrome, Firefox, Safari, and Edge.
